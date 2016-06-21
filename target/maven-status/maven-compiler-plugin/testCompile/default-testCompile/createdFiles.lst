@@ -1,0 +1,7 @@
+petko/osm/api/client/v06/CreateAccessToken.class
+petko/osm/api/client/v06/impl/OsmClientNodeTest.class
+petko/osm/api/client/v06/xml/XmlMarshallerTest.class
+petko/osm/api/client/v06/impl/OsmClientChangesetTest.class
+petko/osm/api/client/v06/impl/OsmClientTest.class
+petko/osm/api/client/v06/impl/OsmClientWayTest.class
+petko/osm/api/client/v06/impl/OsmClientTestAbstract.class
