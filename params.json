@@ -1,0 +1,6 @@
+{
+  "name": "Osm-api-v0.6-client",
+  "tagline": "Open street map API version 0.6 client",
+  "body": "This is a java implementation of an OSM API version 0.6 client.\r\nIf you like, you can done via https://www.paypal.me/5ko.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
